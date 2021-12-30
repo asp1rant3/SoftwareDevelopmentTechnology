@@ -1,0 +1,8 @@
+<?php
+    
+$a = sqrt(587);
+$f = floor($a);
+$c = ceil($a);
+$arr = array("floor"=>"$f", "ceil"=>"$c");
+echo $arr["floor"];
+?>
