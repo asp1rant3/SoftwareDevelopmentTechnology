@@ -1,0 +1,14 @@
+<form action="" method="GET">
+	<input type="checkbox" name="flag">
+	<input name="text">
+	<input type="submit">
+</form>
+<?php
+	if (!empty($_GET)) { // если форма была отправлена
+		if (isset($_GET['flag'])) { // если флажок отмечен
+			echo 'отмечен';
+		} else {
+			echo 'не отмечен';
+		}
+	}
+?>

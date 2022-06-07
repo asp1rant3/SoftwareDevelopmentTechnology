@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+</head>
+<body>
+    <script>
+        let arr=[];
+        for(let i =100;i<1000;i++){
+            var floor = Math.floor;
+            let n1 = floor(i.toString().charAt(0))
+            let n2 = floor(i.toString().charAt(1))
+            let n3 = floor(i.toString().charAt(2))
+            if (n1 == n2+n3){
+                arr.push(i);
+            }
+        }
+        alert(arr);
+      
+    </script>
+</body>
+</html>

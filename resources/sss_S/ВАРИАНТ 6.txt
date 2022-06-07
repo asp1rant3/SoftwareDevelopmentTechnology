@@ -1,0 +1,27 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Поменять цвет фона</title>
+    <script type="text/javascript" src="/js/jquery/jquery.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function(){
+        $('#background_change').click(function(){
+            $('#layer').css('backgroundColor', '#EEF');
+        })
+    });
+    </script>
+    
+    <style type="text/css">
+    #layer {border:#CCC 1px solid; line-height:1.5; padding:10px 20px; width:800px; margin-top:20px;}
+    </style>
+    
+    </head>
+    <body>
+    
+    <input type="button" value="Поменять цвет фона" id="background_change">
+    
+    <div id="layer">задача поменять цвет фона</div>
+    
+    </body>
+    </html>

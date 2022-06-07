@@ -1,0 +1,12 @@
+<script>
+let a=1;
+let b=10;
+function oddNumbers(a,b) {
+  for (; a < b; a++) {
+    let item = a;
+    if(item % 2) 
+      alert(item);
+  }
+}
+oddNumbers(a,b)
+</script>
