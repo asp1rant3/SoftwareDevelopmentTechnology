@@ -1,5 +1,0 @@
-<?php
-	foreach ($arr as $elem) { 
-		echo $elem['name'] .'-'. $elem['salary'] . '<br>';
- 	}
- ?>
