@@ -1,0 +1,10 @@
+C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab18\DBMS\bin\Debug\unkDB.mdf
+C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab18\DBMS\bin\Debug\unkDB_log.ldf
+C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab18\DBMS\bin\Debug\DBMS.exe.config
+C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab18\DBMS\bin\Debug\DBMS.exe
+C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab18\DBMS\bin\Debug\DBMS.pdb
+C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab18\DBMS\obj\Debug\DBMS.csproj.AssemblyReference.cache
+C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab18\DBMS\obj\Debug\DBMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab18\DBMS\obj\Debug\DBMS.csproj.CoreCompileInputs.cache
+C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab18\DBMS\obj\Debug\DBMS.exe
+C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab18\DBMS\obj\Debug\DBMS.pdb
