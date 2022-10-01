@@ -11,8 +11,11 @@ using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 
+
+
 namespace Lab20
 {
+
     public partial class Form1 : Form
     {
         private SqlConnection sqlConnection = null;
