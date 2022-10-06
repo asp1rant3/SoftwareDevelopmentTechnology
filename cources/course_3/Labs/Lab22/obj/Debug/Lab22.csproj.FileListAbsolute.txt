@@ -1,0 +1,8 @@
+C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab22\bin\Debug\Lab22.exe.config
+C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab22\bin\Debug\Lab22.exe
+C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab22\bin\Debug\Lab22.pdb
+C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab22\obj\Debug\Lab22.csproj.AssemblyReference.cache
+C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab22\obj\Debug\Lab22.csproj.SuggestedBindingRedirects.cache
+C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab22\obj\Debug\Lab22.csproj.CoreCompileInputs.cache
+C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab22\obj\Debug\Lab22.exe
+C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab22\obj\Debug\Lab22.pdb
