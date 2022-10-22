@@ -72,6 +72,76 @@ namespace Lab22
         }
     }
     
+    public class Facade
+    {
+        protected Subsystem1 _subsystem1;
+        
+        protected Subsystem2 _subsystem2;
+
+        public Facade(Subsystem1 subsystem1, Subsystem2 subsystem2)
+        {
+            this._subsystem1 = subsystem1;
+            this._subsystem2 = subsystem2;
+        }
+        
+        //  Методы Фасада удобны для быстрого доступа к сложной функциональности
+        // подсистем. Однако клиенты получают только часть возможностей
+        // подсистемы.
+        public string Operation()
+        {
+            string result = "Фасад инициализирует подсистемы:\n";
+            result += this._subsystem1.operation1();
+            result += this._subsystem2.operation1();
+            result += "Фасад приказывает подсистемам выполнить действие:\n";
+            result += this._subsystem1.operationN();
+            result += this._subsystem2.operationZ();
+            return result;
+        }
+    }
+    
+    // Подсистема может принимать запросы либо от фасада, либо от клиента
+    // напрямую. В любом случае, для Подсистемы Фасад – это еще один клиент, и
+    // он не является частью Подсистемы.
+    public class Subsystem1
+    {
+        public string operation1()
+        {
+            return "Подсистема 1: Готова!\n";
+        }
+
+        public string operationN()
+        {
+            return "Подсистема 1: Перейти!\n";
+        }
+    }
+    
+    // Некоторые фасады могут работать с разными подсистемами одновременно.
+    public class Subsystem2
+    {
+        public string operation1()
+        {
+            return "Подсистема 2: будьте готовы!\n";
+        }
+
+        public string operationZ()
+        {
+            return "Подсистема 2: Огонь!\n";
+        }
+    }
+
+
+    class Client2
+    {
+        // Клиентский код работает со сложными подсистемами через простой
+        // интерфейс, предоставляемый Фасадом. Когда фасад управляет жизненным
+        // циклом подсистемы, клиент может даже не знать о существовании
+        // подсистемы. Такой подход позволяет держать сложность под контролем.
+        public static void ClientCode(Facade facade)
+        {
+            Console.Write(facade.Operation());
+        }
+    }
+
     class Program
     {
         static void Main(string[] args)
@@ -86,6 +156,11 @@ namespace Lab22
             ConcreteDecoratorB decorator2 = new ConcreteDecoratorB(decorator1);
             Console.WriteLine("Клиент: Теперь у меня есть декорированный компонент!: ");
             client.ClientCode(decorator2);
+            Console.WriteLine("___________________________");
+            Subsystem1 subsystem1 = new Subsystem1();
+            Subsystem2 subsystem2 = new Subsystem2();
+            Facade facade = new Facade(subsystem1, subsystem2);
+            Client2.ClientCode(facade);
         }
     }
 }
