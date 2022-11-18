@@ -3,7 +3,7 @@
 xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"  
 xmlns:d="http://schemas.microsoft.com/expression/blend/2008"  
         xmlns:viewmodel="clr-namespace:MVVMDemo"  
-    Title="Window1" Height="300" Width="300">  
+    Title="MVVM для ТРПО" Height="300" Width="300">  
     <Window.Resources>  
         <viewmodel:ViewModel x:Key="ViewModel"/>  
         <viewmodel:DatetimeToDateConverter x:Key="MyConverter"/>  
