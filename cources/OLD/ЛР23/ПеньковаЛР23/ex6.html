@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>ex4</title>
+<!--Подключаем библиотеку jQuery-->
+<script src="http://code.jquery.com/jquery-latest.js">
+</script>
+<!--Простой стиль, делающий цвет шрифта красным-->
+<style type="text/css">
+.cl0{
+border:1px solid black;
+width: 250px;}
+.cl1 {
+text-align:  center;
+width: 250px;
+border:1px solid black;
+background:lightyellow;}
+.cl2 {
+display:none;
+text-align:center;}
+  </style>
+</head>
+<body>
+<script>
+$(document).ready(function(){
+    $("#show").click(function(){
+        $('.cl1').find("ul").fadeIn('slow');
+    });
+    $("#hide").mouseleave(function(){
+        $('.cl1').find("ul").fadeOut('slow');
+    });
+
+});
+</script>
+<div class = "cl0">
+        <div class="cl1">Apple
+            <ul class="cl2">
+                <li>Ноутбуки</li>
+                <li>Нетбуки</li>
+                <li>Планшеты</li>
+            </ul>
+        </div>
+
+        <div class="cl1">Asus
+            <ul class="cl2">
+                <li>Ноутбуки</li>
+                <li>Нетбуки</li>
+                <li>Планшеты</li>
+            </ul>
+        </div>
+
+        <div class="cl1">HP
+            <ul class="cl2">
+                <li>Ноутбуки</li>
+                <li>Нетбуки</li>
+                <li>Планшеты</li>
+            </ul>
+        </div>
+        <div class="cl1">Samsung
+            <ul class="cl2">
+                <li>Ноутбуки</li>
+                <li>Нетбуки</li>
+                <li>Планшеты</li>
+            </ul>
+        </div>
+        <div class="cl1">Acer
+            <ul class="cl2">
+                <li>Ноутбуки</li>
+                <li>Нетбуки</li>
+                <li>Планшеты</li>
+            </ul>
+        </div>
+    </div>
+
+    <a href="#" id="show">Появится</a>
+    <a href="#" id="hide">Исчезнуть</a>
+</body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>ex2</title>
+        <style type="text/css">
+        body {
+                        margin: 0 auto;
+                        padding: 0;
+                        width: 520px;
+                        font: 75% / 120% Arial, Helvetica, sans-serif;
+                    }
+        .panel {
+                        width: 320px;
+                        height: 240px;
+                        padding: 5px;
+                        border:1px solid #ccc;
+                        margin-top: 40px;
+                    }
+        .rectangle {
+                        width: 30px;
+                        height: 30px;
+                        border:1px solid #ccc;
+                        background: lightGreen;
+
+                    }
+
+        </style>
+        <!--Подключаем библиотеку jQuery-->
+        <script src="http://code.jquery.com/jquery-latest.js">
+        </script>
+    </head>
+    <body>
+    <script>
+// Прикрепляем функцию к событию - загрузка документа завершена
+
+$(document).ready(function(){
+        var i=0;
+        $("#run").click(function (){
+        $("<div id="+i+"></div>").addClass("rectangle").prependTo(".panel");
+            $("#"+i).animate({marginLeft:'+=290'}, 1000)
+                        .animate({marginTop:'+=210'}, 1000)
+                        .animate({marginLeft:'-=290'}, 1000)
+                        .animate({marginTop:'-=210'}, 1000)
+                        .animate({width:'+=30'}, 1000)
+                        .animate({height:'+=30'}, 1000)
+                        .animate({width:'-=30'}, 1000)
+                        .animate({height:'-=30'}, 1000)
+                        .fadeOut("slow");
+        i+=1;
+        $("#stop").click(function(){$("#"+(i-1)).stop(true)});
+            });
+        });
+    </script>
+    <ul>
+        <li><a href="#" id="run">запуск анимации</a></li>
+        <li><a href="#" id="stop">Остановка анимации</a></li>
+    </ul>
+<div class="panel">
+<p >Этот параграф будет исчезать и появляться. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа. Текст параграфа.    </p>
+        </div>
+    </div>
+    </body>
+</html>
