@@ -1,34 +1,3 @@
-C:\Users\snglrtycrvtureofspce\Desktop\MVVMDemo\bin\Debug\MVVMDemo.exe.config
-C:\Users\snglrtycrvtureofspce\Desktop\MVVMDemo\bin\Debug\MVVMDemo.exe
-C:\Users\snglrtycrvtureofspce\Desktop\MVVMDemo\bin\Debug\MVVMDemo.pdb
-C:\Users\snglrtycrvtureofspce\Desktop\MVVMDemo\obj\Debug\MVVMDemo.csproj.AssemblyReference.cache
-C:\Users\snglrtycrvtureofspce\Desktop\MVVMDemo\obj\Debug\MVVMDemo.csproj.SuggestedBindingRedirects.cache
-C:\Users\snglrtycrvtureofspce\Desktop\MVVMDemo\obj\Debug\MainWindow.g.cs
-C:\Users\snglrtycrvtureofspce\Desktop\MVVMDemo\obj\Debug\App.g.cs
-C:\Users\snglrtycrvtureofspce\Desktop\MVVMDemo\obj\Debug\MVVMDemo_MarkupCompile.cache
-C:\Users\snglrtycrvtureofspce\Desktop\MVVMDemo\obj\Debug\MVVMDemo_MarkupCompile.lref
-C:\Users\snglrtycrvtureofspce\Desktop\MVVMDemo\obj\Debug\MainWindow.baml
-C:\Users\snglrtycrvtureofspce\Desktop\MVVMDemo\obj\Debug\MVVMDemo.g.resources
-C:\Users\snglrtycrvtureofspce\Desktop\MVVMDemo\obj\Debug\MVVMDemo.Properties.Resources.resources
-C:\Users\snglrtycrvtureofspce\Desktop\MVVMDemo\obj\Debug\MVVMDemo.csproj.GenerateResource.cache
-C:\Users\snglrtycrvtureofspce\Desktop\MVVMDemo\obj\Debug\MVVMDemo.csproj.CoreCompileInputs.cache
-C:\Users\snglrtycrvtureofspce\Desktop\MVVMDemo\obj\Debug\MVVMDemo.exe
-C:\Users\snglrtycrvtureofspce\Desktop\MVVMDemo\obj\Debug\MVVMDemo.pdb
-C:\Users\snglrtycrvtureofspce\Desktop\MVVMDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab26\MVVMDemo\bin\Debug\MVVMDemo.exe.config
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab26\MVVMDemo\bin\Debug\MVVMDemo.exe
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab26\MVVMDemo\bin\Debug\MVVMDemo.pdb
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab26\MVVMDemo\obj\Debug\MVVMDemo.csproj.AssemblyReference.cache
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab26\MVVMDemo\obj\Debug\MVVMDemo.csproj.SuggestedBindingRedirects.cache
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab26\MVVMDemo\obj\Debug\MainWindow.g.cs
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab26\MVVMDemo\obj\Debug\App.g.cs
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab26\MVVMDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab26\MVVMDemo\obj\Debug\MVVMDemo_MarkupCompile.cache
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab26\MVVMDemo\obj\Debug\MVVMDemo_MarkupCompile.lref
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab26\MVVMDemo\obj\Debug\MainWindow.baml
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab26\MVVMDemo\obj\Debug\MVVMDemo.g.resources
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab26\MVVMDemo\obj\Debug\MVVMDemo.Properties.Resources.resources
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab26\MVVMDemo\obj\Debug\MVVMDemo.csproj.GenerateResource.cache
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab26\MVVMDemo\obj\Debug\MVVMDemo.csproj.CoreCompileInputs.cache
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab26\MVVMDemo\obj\Debug\MVVMDemo.exe
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab26\MVVMDemo\obj\Debug\MVVMDemo.pdb
+version https://git-lfs.github.com/spec/v1
+oid sha256:a296b7c37ea0d7b25cd0c434d908a5809ad71d001e39ce8cddf06aef4c19633d
+size 4364

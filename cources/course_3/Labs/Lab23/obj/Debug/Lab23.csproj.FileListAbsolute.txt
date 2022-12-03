@@ -1,8 +1,3 @@
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab23\bin\Debug\Lab23.exe.config
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab23\bin\Debug\Lab23.exe
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab23\bin\Debug\Lab23.pdb
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab23\obj\Debug\Lab23.csproj.AssemblyReference.cache
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab23\obj\Debug\Lab23.csproj.SuggestedBindingRedirects.cache
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab23\obj\Debug\Lab23.csproj.CoreCompileInputs.cache
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab23\obj\Debug\Lab23.exe
-C:\Users\snglrtycrvtureofspce\Documents\snglrtycrvtureofspce\GitHub\software-development-technology\cources\course_3\Labs\Lab23\obj\Debug\Lab23.pdb
+version https://git-lfs.github.com/spec/v1
+oid sha256:1953f418ed6b05680534f0281e5aeaee2f1fb27b031f2b8365796ea38a280de8
+size 1288
